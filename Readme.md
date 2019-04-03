@@ -5,6 +5,6 @@ execute it by:
 python ./simulator.py
 **************************
 analyzer.py: task 2 part 1
-execute ti by: 
+execute it by: 
 python ./analyzer.py
 **************************
